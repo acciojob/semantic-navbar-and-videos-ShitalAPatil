@@ -1,5 +1,5 @@
 
-/* Your CSS Code here. */
+
 
 /* Your CSS Code here. */
 nav{
@@ -7,7 +7,6 @@ nav{
     justify-content: center;
     align-items: center;
     background-color: rgba(0,0,0,0.5);
-    /* position: sticky; */
     top: 0;
 }
 nav ul{
